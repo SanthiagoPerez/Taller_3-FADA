@@ -7,6 +7,7 @@
  * Ejecución
  * Ejemplo
  * Creadores
+ * Nota
 
 ## INTRODUCCION
 
@@ -22,6 +23,7 @@
        elementos
  - No modificar el código.
  - No modificar los test.
+ - Se tiene un documento excel adicional, para mostrar el proceso
 
 ## EJECUCIÓN
 
@@ -42,3 +44,9 @@
  - Daniel Camelo 202159908
  - Jhon Stiven Mafla 202160295
  - Santiago Perez  201968142
+
+## NOTA
+
+ - Las casillas en el documento de excel aparecen como
+   #¡Valor! ya que los numeros por lo que se divide son muy 
+   pequeños, por esa razon la maquina los toma como si fueran cero
